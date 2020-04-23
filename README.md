@@ -1,6 +1,6 @@
 # Naming-Conventions-Packages-Static-and-Final-keywords
 
-1. PackageTestLibrary: Package concepts in Java.
+1. PackageTestLibrary: The Package concepts in Java.
 
 2. PackageTest:  
 
@@ -21,5 +21,18 @@
 
         (5) Create a new project and add your Series library, then test the three methods in the main() method of your new project.
         
+3. ScopeTest:
+
+        (1) Write a small program to read an integer from the keyboard (using Scanner) and print out the times table for that number. The table should run from 1 to 12.
+
+         (2) You are allowed to use one variable called scanner for your Scanner instance. You can use as many other variables as you=  need, but they must must all be called x. That includes any class instances and loop control variables that you may decide to use. If you use a class, the class can be called X (capital), but any instances of it must be called x (lower case). Any methods you create must also be called x.
+
+          (3) Optional Extra: Change your program so that ALL variables (including the scanner instance) are called x.
        
-       
+4. Static: The static concepts in Java.
+
+5. AccessModifiers: The concepts of access modifiers in Java.
+
+6. Final: The final concepts in Java.
+
+7. WinDemo: Display a window in Java.
